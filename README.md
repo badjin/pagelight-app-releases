@@ -14,11 +14,11 @@ Pagelight opens PDFs in tabs, lets you jump around with thumbnails, outlines, bo
 - **Reading controls.** Zoom, rotate, single-page and two-page layouts, a cover-page option, and a slide show.
 - **Password-protected files.** Pagelight asks for the password and opens the file.
 - **Document properties and printing.** Printing includes the text and pen strokes you added.
-- **Looks.** Five themes and nine page backgrounds.
+- **Looks.** Five themes (Light, Dark, Starry Blue, Mint Green and Auto) and eight page background colours, or none.
 
 ## Edit mode
 
-Press the **Edit** button to switch from reading to marking up a page.
+Press **Edit** in the left rail (or choose **View > Edit Mode**) to switch from reading to marking up a page.
 
 - **Text.** Click a page and type. Choose colour and size, then move, resize or delete the box. Korean text works, typed or pasted.
 - **Pen.** Draw freehand strokes; choose the colour and thickness.
@@ -39,7 +39,7 @@ Press the **Edit** button to switch from reading to marking up a page.
 ## Good to know
 
 - Pagelight is a viewer plus one edit mode. It has no AI, text recognition, signing, file conversion or cloud features, and it does not edit the text or images already in a PDF.
-- Files with an owner password that forbids editing, and pages with their own rotation, cannot take added text or drawings; Pagelight says so on the page.
+- Edit mode is switched off for password-locked files and for files whose owner password forbids editing. A page that has its own rotation cannot take added text or drawings; Pagelight shows a note at the foot of that page.
 - A Korean text box on a page that is rotated in the view wraps onto two lines.
 - Once, a window was seen to disappear during testing. It was not reproduced, and the cause is not known.
 
